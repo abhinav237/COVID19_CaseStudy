@@ -6,7 +6,7 @@ import numpy as np
 #CLEANING DATA 
 
 
-case_timeline=pd.read_csv(r"C:\Users\Abhinav\Desktop\data_sets\datasets_494724_1452107_time_series_covid_19_confirmed.csv")
+case_timeline=pd.read_csv(r"datasets_494724_1452107_time_series_covid_19_confirmed.csv")
 
 cases=pd.DataFrame(case_timeline)
 
@@ -43,7 +43,7 @@ final_cases        #a final dataframe having only 'total cases' and 'maximum cas
 #HAPPINESS REPORT 
 
 
-happy=pd.read_csv(r"C:\Users\Abhinav\Desktop\data_sets\WHR20_DataForFigure2.1.csvfinal_cases")
+happy=pd.read_csv(r"WHR20_DataForFigure2.1.csvfinal_cases")
 
 happy=happy[['Country name','Regional indicator','Logged GDP per capita','Freedom to make life choices']]  #keeoing only the relevant data
 
