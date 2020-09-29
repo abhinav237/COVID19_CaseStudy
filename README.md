@@ -14,3 +14,6 @@ Data Sets-
 
 * The two data sets are given - * Covid case count
                                 * World happiness report
+                                
+The 'twb' file is the tableau interactive map displaying the total cases for all the country.
+(To be opened using tableau notebook)
