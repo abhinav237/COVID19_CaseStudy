@@ -17,3 +17,5 @@ Data Sets-
                                 
 The 'twb' file is the tableau interactive map displaying the total cases for all the country.
 (To be opened using tableau notebook)
+
+***R Folder contains the COVID 19 Data Analysis Project using R.*** 
