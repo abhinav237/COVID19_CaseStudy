@@ -13,4 +13,4 @@ such epidemic.
 
 **Detailed Design**
 
-![](image.jpg)
+![](Image.jpg)
